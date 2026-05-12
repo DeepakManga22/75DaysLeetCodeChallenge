@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Tree
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
