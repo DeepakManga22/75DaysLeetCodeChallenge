@@ -311,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
