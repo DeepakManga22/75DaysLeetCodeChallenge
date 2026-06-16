@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/DeepakManga22/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Union-Find
 |  |
 | ------- |
